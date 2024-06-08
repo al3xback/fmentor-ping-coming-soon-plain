@@ -33,7 +33,7 @@ h2 {
 }
 
 h2 {
-	font-size: 2.2rem;
+	font-size: 2.4rem;
 }
 
 .light {
@@ -148,8 +148,8 @@ header {
 
 #logo {
 	display: inline-flex;
-	width: 7.5rem;
-	height: 2.2rem;
+	width: 6rem;
+	height: 1.8rem;
 	background: url('../images/logo.svg');
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -158,8 +158,8 @@ header {
 
 @media (min-width: 48em) {
 	#logo {
-		width: 8.6rem;
-		height: 2.6rem;
+		width: 6.8rem;
+		height: 2rem;
 	}
 }
 
@@ -327,7 +327,7 @@ main {
 }
 
 .footer .container {
-	gap: 1.4rem;
+	gap: 1.2rem;
 }
 
 .footer__content {
