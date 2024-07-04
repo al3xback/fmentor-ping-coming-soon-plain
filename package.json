@@ -1,22 +1,8 @@
 {
 	"name": "fmentor-ping-coming-soon-plain",
+	"private": true,
 	"version": "1.0.0",
-	"description": "ping coming soon page using plain mode",
-	"main": "index.js",
-	"scripts": {
-		"lint": "prettier --write ."
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-ping-coming-soon-plain.git"
-	},
+	"type": "module",
 	"author": "alex <al3xback@gmail.com>",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-ping-coming-soon-plain/issues"
-	},
-	"homepage": "https://github.com/al3xback/fmentor-ping-coming-soon-plain#readme",
-	"devDependencies": {
-		"prettier": "^2.8.8"
-	}
+	"license": "ISC"
 }
